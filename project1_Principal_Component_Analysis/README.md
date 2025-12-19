@@ -31,7 +31,7 @@ PCA는 데이터의 분산을 최대한 보존하는 방향으로 새로운 저�
 - 가장 큰 eigenvalue를 가지는 방향을 principal component로 선택
 
 ### 3. Dimensionality Reduction
-- 상위 \(k\)개의 principal components 선택
+- 상위 k개의 principal components 선택
 - 원본 데이터를 저차원 subspace로 projection
 
 ### 4. Reconstruction
